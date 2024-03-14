@@ -5,5 +5,6 @@
 }
 
 body{
-  background-image: var(--tg-theme-bg-color);
+  background: var(--tg-theme-bg-color);
+  
 }
